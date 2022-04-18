@@ -1,0 +1,9 @@
+Factura
+
+Client: Hadasa
+Email: hadasa@yahoo.com
+Adresa de livrare: 1 Mai 15
+
+Produs: Rochie   Pret: 100.0
+Cantitate: 5
+Pret total: 500.0

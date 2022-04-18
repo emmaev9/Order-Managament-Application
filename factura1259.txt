@@ -1,0 +1,9 @@
+Factura
+
+Client: Vioris
+Email: vioris@yahoo.com
+Adresa de livrare: Bistrita 14
+
+Produs: Palarie   Pret: 30.0
+Cantitate: 10
+Pret total: 300.0

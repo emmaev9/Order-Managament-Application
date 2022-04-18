@@ -1,0 +1,9 @@
+Factura
+
+Client: Flavius 
+Email: flavius@yahoo.com
+Adresa de livrare: Bucuresti 14
+
+Produs: Palarie   Pret: 30.0
+Cantitate: 10
+Pret total: 300.0

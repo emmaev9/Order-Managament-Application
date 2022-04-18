@@ -1,0 +1,9 @@
+Factura
+
+Client: Viorel
+Email: viorel@yahoo.com
+Adresa de livrare: Bistrita 15
+
+Produs: Hanorac   Pret: 79.0
+Cantitate: 1
+Pret total: 79.0
