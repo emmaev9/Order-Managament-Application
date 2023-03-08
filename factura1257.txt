@@ -1,9 +1,0 @@
-Factura
-
-Client: Maria
-Email: maria@yahoo.com
-Adresa de livrare: Eminescu 15
-
-Produs: Top   Pret: 4.0
-Cantitate: 10
-Pret total: 40.0
