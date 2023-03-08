@@ -1,9 +1,0 @@
-Factura
-
-Client: Darius
-Email: darius@yahoo.com
-Adresa de livrare: Paris 45
-
-Produs: Top   Pret: 4.0
-Cantitate: 2
-Pret total: 8.0
