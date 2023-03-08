@@ -1,9 +1,0 @@
-Factura
-
-Client: Viorel
-Email: viorel@yahoo.com
-Adresa de livrare: Bistrita 15
-
-Produs: Jeans   Pret: 96.0
-Cantitate: 3
-Pret total: 288.0
